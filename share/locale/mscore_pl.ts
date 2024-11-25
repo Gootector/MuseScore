@@ -4130,7 +4130,7 @@ space unit</extracomment>
         <source>When a chord has accidentals octave apart, these will be placed in the same columns. However, sometimes one of these accidentals can be larger than another, causing thus moving the others. 
 By default, they will be placed such as that their right end are at the same level. Use this checkbox to override this behaviour.</source>
         <translation>Gdy w akordzie występują znaki chromatyczne oddalone o oktawę, są one umieszczane w jednej kolumnie. Czasami jednak jeden ze znaków może być większy od drugiego, co wymusza jego przesunięcie.
-W takim wypadku domyślnie znaki chromatyczne są wyrównywane względem swojej prawej krawędzi. Zaznacz tę opcję, aby zmienić to zachowanie.</translation>
+Domyślnie zostaną umieszczone względem swojego prawego końca na tym samym poziomie. Zaznacz tę opcję, aby zmienić to zachowanie.</translation>
     </message>
     <message>
         <location filename="../../mscore/editstyle.ui" line="3921"/>
